@@ -1,3 +1,3 @@
-# Go Slot Machine
+# Go Slot Machine API
 
 Slot machine api built with Go
